@@ -107,3 +107,7 @@ venv.bak/
 *.tgz
 *.zip
 *.tar
+*.jpg
+*.mpg
+*.mp4
+
